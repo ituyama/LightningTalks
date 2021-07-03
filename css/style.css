@@ -1,0 +1,44 @@
+.navbar{
+    background-color: azure;
+}
+body{
+    background-color: azure;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-weight: bold;
+    color: #1f3134;
+}
+.navbar{
+    color: #1f3134;
+    margin: 12px;
+}
+.navbar-light{
+    color: #1f3134;
+}
+.center{
+    margin: a auto;
+    padding: 0 auto;
+    text-align: center;
+}
+.title{
+    
+ margin-top:30vh;
+ font-family: 'M PLUS Rounded 1c', sans-serif;
+ color: #1f3134;
+}
+.sanka{
+
+    height: 50px;
+    font-size: 23px;
+    border-radius: 50px;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.dropdown-menu{
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.card{
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    background-color: #00ced1;
+}
